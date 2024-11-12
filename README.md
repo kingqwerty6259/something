@@ -45,6 +45,3 @@ This is a simple Discord bot built using the `discord.js` library. It provides a
   - 🍐 → Role 3
   - 🍑 → Role 4
 
-## Contributing
-
-Feel free to fork, improve, and submit pull requests!
